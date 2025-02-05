@@ -1,0 +1,23 @@
+{
+  "name": "devops_lab_1",
+  "version": "1.0.0",
+  "description": "DevOps Project with Simple CICD,Docker and Kubernetes Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajandubey/DevOps_Lab_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajandubey/DevOps_Lab_1/issues"
+  },
+  "homepage": "https://github.com/rajandubey/DevOps_Lab_1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
